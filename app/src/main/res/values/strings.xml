@@ -3,6 +3,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="hello_world">Hello world!123 nueva</string>
 =======
     <string name="hello_world">Hello world!</string>
@@ -10,5 +11,8 @@
 =======
     <string name="hello_world">Hello world!123 va</string>
 >>>>>>> origin/master
+=======
+    <string name="hello_world">Hello world!123 nueva</string>
+>>>>>>> parent of c2e4231... cocas
     <string name="action_settings">Settings</string>
 </resources>
